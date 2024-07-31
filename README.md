@@ -1,6 +1,6 @@
 ## Using Espressif-IDE
 
-*NOTE* To force use a specific por change variable `${serial_port}` for the port
+*NOTE* To force using a specific serial port change variable `${serial_port}` to hardcoded port
 
 To edit the variable got to: Edit Configuration (Launch configurations) > Main (Tab) > Arguments (Text area)
 
